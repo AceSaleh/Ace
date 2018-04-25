@@ -1,0 +1,6 @@
+D:\X\ConwaysGameOfLife\ConwaysGameOfLife_Finished\ConwaysGameOfLife_Finished\bin\Debug\ConwaysGameOfLife_Finished.exe.config
+D:\X\ConwaysGameOfLife\ConwaysGameOfLife_Finished\ConwaysGameOfLife_Finished\bin\Debug\ConwaysGameOfLife_Finished.exe
+D:\X\ConwaysGameOfLife\ConwaysGameOfLife_Finished\ConwaysGameOfLife_Finished\bin\Debug\ConwaysGameOfLife_Finished.pdb
+D:\X\ConwaysGameOfLife\ConwaysGameOfLife_Finished\ConwaysGameOfLife_Finished\obj\Debug\ConwaysGameOfLife_Finished.csprojResolveAssemblyReference.cache
+D:\X\ConwaysGameOfLife\ConwaysGameOfLife_Finished\ConwaysGameOfLife_Finished\obj\Debug\ConwaysGameOfLife_Finished.exe
+D:\X\ConwaysGameOfLife\ConwaysGameOfLife_Finished\ConwaysGameOfLife_Finished\obj\Debug\ConwaysGameOfLife_Finished.pdb
